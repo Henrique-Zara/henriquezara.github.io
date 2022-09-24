@@ -1,0 +1,41 @@
+.container{
+	/*cj*/
+	background-color: blue;
+}
+
+*{
+  margin: 0;
+}
+
+.red{
+	color: red;
+}
+
+#menu{
+	background-color: green;
+	text-align: center;
+}
+
+.centro{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.redondo{
+	border-radius: 10% ;
+
+}
+
+#gifsmoken{
+	width: 35%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#tituloblog{
+	font-family: cursive;
+	padding: 20px;
+
+	font-size: 2em;
+}
